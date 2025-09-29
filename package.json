@@ -14,6 +14,9 @@
   "main": "electron/main.js",
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
+    "@types/node": "^24.5.2",
+    "pdfkit": "^0.17.2",
+    "qrcode": "^1.5.4",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.13"
